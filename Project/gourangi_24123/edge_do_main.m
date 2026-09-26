@@ -138,8 +138,8 @@ set(gca,...
     'TickLabelInterpreter', 'latex',...
     'LineWidth', 0.8)
 
-%% Export as vector graphics
-exportgraphics(fig, filename, 'ContentType', 'vector');
+%% Export as PNG graphics 
+exportgraphics(fig, filename, 'BackgroundColor', 'white', 'Resolution', 300);
 
 %% Local Functions
 
