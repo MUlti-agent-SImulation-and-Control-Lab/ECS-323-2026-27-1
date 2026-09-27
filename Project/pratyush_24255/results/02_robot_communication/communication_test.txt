@@ -1,0 +1,51 @@
+INITIAL POSITIONS
+R1 = (1, 3)
+R2 = (4, 4)
+R3 = (8, 5)
+
+ COMMUNICATION 
+
+R1 ↔ R2
+Distance = 3.16
+Communication : HIGH
+Position information : SHARED
+Map information      : SHARED
+
+R1 ↔ R3
+Distance = 7.28
+Communication : LOW
+Position information : SHARED
+Map information      : NOT SHARED
+
+R2 ↔ R3
+Distance = 4.12
+Communication : LOW
+Position information : SHARED
+Map information      : NOT SHARED
+
+ROBOT MOVEMENT
+R1 moved RIGHT → (2, 3)
+R1 moved UP → (2, 4)
+R2 moved LEFT → (3, 4)
+R2 moved DOWN → (3, 3)
+R3 cannot move to (7, 5) because of obstacle.
+
+ COMMUNICATION 
+
+R1 ↔ R2
+Distance = 1.41
+Communication : HIGH
+Position information : SHARED
+Map information      : SHARED
+
+R1 ↔ R3
+Distance = 6.08
+Communication : LOW
+Position information : SHARED
+Map information      : NOT SHARED
+
+R2 ↔ R3
+Distance = 5.39
+Communication : LOW
+Position information : SHARED
+Map information      : NOT SHARED
