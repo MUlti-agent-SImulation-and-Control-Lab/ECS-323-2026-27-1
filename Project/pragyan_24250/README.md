@@ -65,7 +65,7 @@ Each class is mapped to a wheelchair command: left hand → turn left, right han
 the structure  is tentative and will change as control and simulation module will be added.
 
 
-The code will be uploaded soon. Stage 1 will run with:
+## Run
 
 ```bash
 pip install -r requirements.txt
