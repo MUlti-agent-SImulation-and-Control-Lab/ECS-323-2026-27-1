@@ -10,6 +10,7 @@ This version focuses only on the first subsystem of the proposed autonomous dust
 2. Produce noisy measurements to simulate imperfect sensing.
 3. Make an estimate of the trajectory based on the measurements.
 4. Estimate where the trash will land.
+5. I was not able to clone the repo as i manually uploded all the files in this folder sahil_23219
 
 The following items are not part of this milestone: robot position control, three-wheel motion control, feedback control, and automatic lid control. They will be included in the subsequent milestones.
 
