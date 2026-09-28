@@ -48,7 +48,7 @@ data/
 
 ## Current Work
 
-# For now the code is not running through Github because it is completely based on virtual environment in "Webots".But I am explaining here how are these file perfoming
+# I have run all these files in my system properly and I have attached some photes and videos of it in "data" folder but, For now the code is not running through Github because it is completely based on virtual environment in "Webots". To run these files you must need to setup webots environment first in linux system. So I am explaining here how these file are perfoming task. 
 
 1. move_turtlebot.py
 It move any robot in forward direction you just need to change the of robot to move other robot.
