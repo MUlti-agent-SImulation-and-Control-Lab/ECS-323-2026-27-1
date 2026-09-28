@@ -22,3 +22,9 @@ and sends to arduino uno over serial communication ,and then uno sends pwm signa
 joystick---->> jetson---->>arduino uno---->>motor_drivers---->>motors.
 
 this code is in motor_node.py   file
+
+## future work
+use of  extended kalman filter based algo for sensor fusing(imu+lidar).
+
+### result 
+i have attached some screenshots and videos of working imu_visualizer script, yolo object detection using realsese camera mounter on robot and movement of robot .
