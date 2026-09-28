@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scikit-learn>=1.6
+mne
+mne-qt-browser
+moabb
+notebook
