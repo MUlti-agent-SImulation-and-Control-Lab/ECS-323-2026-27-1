@@ -1,0 +1,25 @@
+Experiment 1
+
+Robot moves forward successfully.
+Average Speed = 0.2 m/s
+Status === PASS
+
+Experiment 2
+
+Robot moves backward successfully.
+Average Speed = -0.2 m/s
+Status === PASS
+
+Experiment 3
+
+Robot moves in circle successfully.
+Average Speed = 0.2 m/s
+Circular/Angular speed = 1.0 m/s
+Status === PASS
+
+Experiment 4
+
+ALL 3 Robots moves in circle successfully.
+Average Speed = 0.2 m/s
+Circular/Angular speed = 1.0 m/s
+Status === PASS
