@@ -1,8 +1,7 @@
 # Simultaneous Localization and Mapping (SLAM)
 
 ## Student
-Vaibhav Prakashrao Bhosale
-
+Vaibhav Prakashrao Bhosale && Kaushal Ujjawal
 ## Roll No.
 24082
 
